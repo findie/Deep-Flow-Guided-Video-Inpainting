@@ -37,4 +37,7 @@ urllib3==1.25.3
 
 RUN pip3 install mmcv==0.2.10
 
+RUN pip3 install --upgrade https://download.pytorch.org/whl/cu90/torch-0.4.0-cp35-cp35m-linux_x86_64.whl
+
+
 
